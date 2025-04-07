@@ -16,3 +16,4 @@
 - `git remote add origin`: It centralises your source code to the other projects
 
 - `git push -u origin`: Used to upload local repository content to a remote repository
+- `git remote -v: List of connections you have between local repository to remote repository
